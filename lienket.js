@@ -1,6 +1,13 @@
-jQuery('#hinhanh').html('<a href="http://datviettour.com.vn/tour-mua-thu" target="_blank" title="Chùm tour du lịch mùa thu">'+
-'<img src="http://datviettour.net/lienketchung/chum-tuor-mua-thu.jpg" alt="Chùm tour du lịch mùa thu" style="width: 100%;" />'+
-'</a><br />'+
-'<a href="http://datviettour.com.vn/tuyen-dung" target="_blank" title="Đất Việt Tour Tuyển dụng">'+
-'<img src="http://datviettour.net/lienketchung/tuyen-dung.png" alt="Đất Việt Tour Tuyển dụng" style="width: 100%;" />'+
-'</a>')
+jQuery('#hinhanh').html(`<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-xuan-tren-tay-nguyen-4n3d-1399">
+					<img src="https://datviettour.com.vn/uploads/images/banner/tay_nguyen.png" alt="quangcao" style="width: 100%; padding-bottom: 10px">
+				</a>
+								<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-kham-pha-dao-tom-hum-binh-ba-2n2d-1269">
+					<img src="https://datviettour.com.vn/uploads/images/banner/binh_ba-_tay_nguyen_QC-01.png" alt="quangcao" style="width: 100%; padding-bottom: 10px">
+				</a>
+				
+								<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-thai-lan-bangkok-pattaya-5n4d-kh-mung-3-4-tet-1375">
+					<img src="https://datviettour.com.vn/uploads/images/banner/slide_Out-thai_tet.png" alt="quangcao" style="width: 100%; padding-bottom: 10px">
+				</a>
+								<a href="https://datviettour.com.vn/">
+					<img src="https://datviettour.com.vn/uploads/images/banner/Cao_hung-_QC_trang_chu-01.png" alt="quangcao" style="width: 100%; padding-bottom: 10px">
+				</a>`)
