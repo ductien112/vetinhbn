@@ -8,5 +8,5 @@ jQuery('#thaydoibanner').html
 </a>
 
  <a href="https://datviettour.com.vn/landing-pages/du-lich-troi-tay.html">
-	<img src="https://datviettour.com.vn/uploads/images/banner/5-du-lich-troi-tay.png" title="tour du lich châu Âu" alt="tour du lich châu Âu" style="width: 100%; padding-bottom: 10px">
+	<img src="https://datviettour.com.vn/uploads/images/banner/new-slide_troi_tay-01.jpg" title="tour du lich châu Âu" alt="tour du lich châu Âu" style="width: 100%; padding-bottom: 10px">
 </a>`);
