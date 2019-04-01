@@ -1,13 +1,16 @@
-jQuery('#thaydoibanner').html(`<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-xuan-tren-tay-nguyen-4n3d-1399">
-	<img src="https://datviettour.com.vn/uploads/images/banner/tay_nguyen.png" alt="datviettour" style="width: 100%; padding-bottom: 10px">
+jQuery('#thaydoibanner').html(`<a href="https://datviettour.com.vn/landing-pages/du-lich-troi-tay.html">
+	<img src="https://datviettour.com.vn/uploads/images/banner/new-slide_troi_tay-01.jpg" alt="Du lịch trời tây" style="width: 100%; padding-bottom: 10px">
 </a>
 
-<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-kham-pha-dao-tom-hum-binh-ba-2n2d-1269">
-	<img src="https://datviettour.com.vn/uploads/images/banner/binh_ba-_tay_nguyen_QC-01.png" alt="datviettour" style="width: 100%; padding-bottom: 10px">
+<a href="https://datviettour.com.vn/tour-du-lich-le-30-4-da-lat-ngan-thong-3n3d-1718">
+	<img src="https://datviettour.com.vn/uploads/images/banner/DaLatNganThong_30_4.jpg" alt="Tour du lịch Đà Lạt" style="width: 100%; padding-bottom: 10px">
 </a>
-<a href="https://datviettour.com.vn/tour-du-lich-tet-2019-thai-lan-bangkok-pattaya-5n4d-kh-mung-3-4-tet-1375">
-	<img src="https://datviettour.com.vn/uploads/images/banner/slide_Out-thai_tet.png" alt="datviettour" style="width: 100%; padding-bottom: 10px">
+<a href="https://datviettour.com.vn/tour-du-lich-singapore-malaysia-6n5d-kh-hang-tuan-1202">
+	<img src="https://datviettour.com.vn/uploads/images/banner/30-4_sing_ma_sua.jpg" alt="Tour Singapore - Malaysia" style="width: 100%; padding-bottom: 10px">
 </a>
-<a href="https://datviettour.com.vn/">
-	<img src="https://datviettour.com.vn/uploads/images/banner/Cao_hung-_QC_trang_chu-01.png" alt="datviettour" style="width: 100%; padding-bottom: 10px">
+<a href="https://datviettour.com.vn/tour-du-lich-kham-pha-nuoc-uc-5n4d-1366">
+	<img src="https://datviettour.com.vn/uploads/images/banner/slide_Uc_xinh_dep-01.jpg" alt="Tour du lịch Úc" style="width: 100%; padding-bottom: 10px">
+</a>
+<a href="https://datviettour.com.vn/tour-du-lich-le-30-4-hong-kong-tham-quyen-quang-chau-sky-100-5n4d-1677">
+	<img src="https://datviettour.com.vn/uploads/images/banner/30-4_kong_kong_TQ_sua.jpg" alt="tour Hongkong" style="width: 100%; padding-bottom: 10px">
 </a>`);
